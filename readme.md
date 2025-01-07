@@ -1,3 +1,6 @@
+After the recent update, there are classes suggestions next to the champions name when hovering on top, so this is basicaly useless
+THanks for all the user that uses and supports this homemade little bullshit, see ya next time
+----
 THIS IS NOT A HACKING SOFTWARE, IT WILL NOT CHOOSE CHAMPION FOR YOU, IT JUST GIVES YOU SUGGESTIONS BASE ON ONLINE FORUMS
 
 Please download Python before using
@@ -12,6 +15,9 @@ https://imgur.com/a/3DcVAhh
 
 champion class suggestion is based on online forums, and manually typed it in code, so you can change it if you want
 
+----
+再最新更新后，選擇英雄時會出現推薦流派, 這小軟件基本上也是廢了
+感謝各位用戶支持，有緣再見
 ----
 這不是外挂軟件，不會自動幫你選擇英雄，只會提供建議
 
